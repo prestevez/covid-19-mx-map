@@ -1,1 +1,4 @@
-![](covid_municipios.png)
+![](casos_covid.png)
+
+
+![](casos_vecindad.png)

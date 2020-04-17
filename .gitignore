@@ -1,3 +1,9 @@
 datos_covid/*.rar
-datos_covid/*.zip
-datos_covid/mex*
+datos_covid/base*
+datos_covid/01_32_mun.cpg  
+datos_covid/01_32_mun.prj  
+datos_covid/01_32_mun.shp.xml  
+datos_covid/01_32_mun.zip
+datos_covid/01_32_mun.dbf  
+datos_covid/01_32_mun.shp  
+datos_covid/01_32_mun.shx

@@ -2,6 +2,8 @@ library(tidyverse)
 library(magrittr)
 library(sf)
 
+unzip("datos_covid/01_32_mun.zip", exdir = "datos_covid/")
+
 datos_mun <- read_csv("datos_covid/Casos_Diarios_Estado_Nacional_Confirmados.csv")
 
 datos_mun %>%
